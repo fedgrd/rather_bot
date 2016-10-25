@@ -24,6 +24,3 @@ searchfile.close()
 html_list = [w.replace('<p>&#8230;', '') for w in html_list]
 html_list = [w.replace('</p>', '') for w in html_list]
 html_list = [w.replace(str(w), 'Never have I ever' + str(w)) for w in html_list]
-
-for i in html_list:
-    print i
