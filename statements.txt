@@ -1,0 +1,466 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head >
+<meta charset="UTF-8" />
+<title>75 Never Have I Ever Questions: bring on the crazy stories</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v3.7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Never have I ever is a great game for finding out more about people. Behind every never have I ever question is a great story just waiting to be told!"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://conversationstartersworld.com/never-have-i-ever-questions/" />
+<link rel="publisher" href="https://plus.google.com/+Conversationstartersworldpage/about"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="75 Never Have I Ever Questions: bring on the crazy stories" />
+<meta property="og:description" content="Never have I ever is a great game for finding out more about people. Behind every never have I ever question is a great story just waiting to be told!" />
+<meta property="og:url" content="http://conversationstartersworld.com/never-have-i-ever-questions/" />
+<meta property="og:site_name" content="Conversation Starters World" />
+<meta property="article:publisher" content="https://www.facebook.com/conversationstartersworld" />
+<meta property="fb:admins" content="1406170266" />
+<meta property="og:image" content="http://conversationstartersworld.com/wp-content/uploads/2015/09/Never-have-I-ever-questions.jpg" />
+<meta property="og:image:width" content="940" />
+<meta property="og:image:height" content="788" />
+<meta property="DC.date.issued" content="2015-09-14T03:37:40-04:00" />
+<!-- / Yoast SEO Premium plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//code.ionicframework.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Conversation Starters World &raquo; Feed" href="http://conversationstartersworld.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Conversation Starters World &raquo; Comments Feed" href="http://conversationstartersworld.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/conversationstartersworld.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='genesis-simple-share-plugin-css-css'  href='//conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/css/share.css?ver=0.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-simple-share-genericons-css-css'  href='//conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/css/genericons.css?ver=0.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='digital-pro-css'  href='http://conversationstartersworld.com/wp-content/themes/digital-pro/style.css?ver=1.0.1' type='text/css' media='all' />
+<style id='digital-pro-inline-css' type='text/css'>
+
+		button,
+		input[type="button"],
+		input[type="reset"],
+		input[type="submit"],
+		.archive-pagination li a:focus,
+		.archive-pagination li a:hover,
+		.archive-pagination .active a,
+		.button,
+		.entry-content a.button,
+		.footer-widgets-1,
+		.textwidget a.button {
+			background-color: #1dbab4;
+		}
+
+		a:focus,
+		a:hover,
+		.archive-pagination li a:focus,
+		.archive-pagination li a:hover,
+		.archive-pagination .active a,
+		.home.front-page .widget a:focus,
+		.home.front-page .widget a:hover,
+		.pagination a:focus,
+		.pagination a:hover {
+				border-color: #1dbab4;
+		}
+
+		a:focus,
+		a:hover,
+		button:hover,
+		button:focus,
+		.content .entry-title a:hover,
+		.content .entry-title a:focus,
+		.footer-widgets a:focus,
+		.footer-widgets a:hover,
+		.front-page .front-page-3 a:focus,
+		.front-page .front-page-3 a:hover,
+		.front-page .front-page-2 ul.checkmark li:before,		
+		.genesis-nav-menu a:focus,
+		.genesis-nav-menu a:hover,
+		.js nav button:focus,
+		.js .menu-toggle:focus,
+		.site-footer a:focus,
+		.site-footer a:hover {
+			color: #1dbab4;
+		}
+		
+</style>
+<link rel='stylesheet' id='google-fonts-css'  href='//fonts.googleapis.com/css?family=Neuton%3A300%2C400italic%2C700%7CPoppins%3A400%2C500%2C600%2C700&#038;ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ionicons-css'  href='//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css?ver=1.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/jquery.sharrre.min.js?ver=0.1.0'></script>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-content/themes/genesis/lib/js/skip-links.js?ver=4.6.1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://conversationstartersworld.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://conversationstartersworld.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://conversationstartersworld.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<link rel='shortlink' href='http://conversationstartersworld.com/?p=304' />
+<link rel="alternate" type="application/json+oembed" href="http://conversationstartersworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fconversationstartersworld.com%2Fnever-have-i-ever-questions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://conversationstartersworld.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fconversationstartersworld.com%2Fnever-have-i-ever-questions%2F&#038;format=xml" />
+<script type="text/javascript" data-cfasync="false" src="http://scripts.mediavine.com/tags/conversation-starters-world.js"></script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-26642481-10', 'auto');
+  ga('send', 'pageview');
+
+</script><link rel="icon" href="http://conversationstartersworld.com/wp-content/uploads/2015/10/cropped-CSW-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://conversationstartersworld.com/wp-content/uploads/2015/10/cropped-CSW-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://conversationstartersworld.com/wp-content/uploads/2015/10/cropped-CSW-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="http://conversationstartersworld.com/wp-content/uploads/2015/10/cropped-CSW-favicon-270x270.png" />
+</head>
+<body class="page page-id-304 page-template-default header-full-width content-sidebar" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><section><h2 class="screen-reader-text">Skip links</h2><ul class="genesis-skip-link"><li><a href="#genesis-nav-primary" class="screen-reader-shortcut"> Skip to primary navigation</a></li><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li><li><a href="#genesis-footer-widgets" class="screen-reader-shortcut"> Skip to footer</a></li></ul></section>
+<header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://conversationstartersworld.com/">Conversation Starters World</a></p><p class="site-description" itemprop="description">A world of conversation starters.</p></div><h2 class="screen-reader-text">Main navigation</h2><nav class="nav-primary" itemscope itemtype="http://schema.org/SiteNavigationElement" id="genesis-nav-primary" aria-label="Main navigation"><div class="wrap"><ul id="menu-questions" class="menu genesis-nav-menu menu-primary js-superfish"><li id="menu-item-587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-587"><a itemprop="url"><span itemprop="name">Conversation starters</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-341" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-341"><a href="http://conversationstartersworld.com/250-conversation-starters/" itemprop="url"><span itemprop="name">250 Conversation starters</span></a></li>
+	<li id="menu-item-385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a href="http://conversationstartersworld.com/deep-conversation-topics/" itemprop="url"><span itemprop="name">Deep conversation topics</span></a></li>
+	<li id="menu-item-465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-465"><a href="http://conversationstartersworld.com/would-you-rather-questions/" itemprop="url"><span itemprop="name">Would you rather questions</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-464" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-464"><a href="http://conversationstartersworld.com/would-you-rather-questions/" itemprop="url"><span itemprop="name">Would you rather questions</span></a></li>
+		<li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394"><a href="http://conversationstartersworld.com/would-you-rather-questions-for-your-boyfriend-or-girlfriend/" itemprop="url"><span itemprop="name">WYR questions for your S.O.</span></a></li>
+		<li id="menu-item-395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-395"><a href="http://conversationstartersworld.com/would-you-rather-questions-clean/" itemprop="url"><span itemprop="name">Clean WYR questions</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-426"><a href="http://conversationstartersworld.com/questions-to-ask-a-guy/" itemprop="url"><span itemprop="name">Q&#8217;s to ask a guy</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-1040" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1040"><a href="http://conversationstartersworld.com/questions-to-ask-your-boyfriend/" itemprop="url"><span itemprop="name">Q&#8217;s to ask your boyfriend</span></a></li>
+		<li id="menu-item-437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-437"><a href="http://conversationstartersworld.com/personal-questions-to-ask-a-guy/" itemprop="url"><span itemprop="name">Personal Q&#8217;s to ask a boy</span></a></li>
+		<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="http://conversationstartersworld.com/interesting-questions-to-ask-a-guy/" itemprop="url"><span itemprop="name">Interesting Q&#8217;s to ask a guy</span></a></li>
+		<li id="menu-item-538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-538"><a href="http://conversationstartersworld.com/fun-questions-to-ask-a-guy/" itemprop="url"><span itemprop="name">Fun Q&#8217;s to ask a guy</span></a></li>
+		<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="http://conversationstartersworld.com/deep-questions-to-ask-a-guy/" itemprop="url"><span itemprop="name">Deep Q&#8217;s to ask a guy</span></a></li>
+		<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="http://conversationstartersworld.com/random-questions-to-ask-a-guy/" itemprop="url"><span itemprop="name">Random Q&#8217;s to ask a boy</span></a></li>
+		<li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018"><a href="http://conversationstartersworld.com/weird-questions-to-ask-a-guy/" itemprop="url"><span itemprop="name">Weird Q&#8217;s to ask a guy</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-425"><a href="http://conversationstartersworld.com/questions-to-ask-a-girl/" itemprop="url"><span itemprop="name">Q&#8217;s to ask a girl</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-901" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-901"><a href="http://conversationstartersworld.com/questions-to-ask-your-girlfriend/" itemprop="url"><span itemprop="name">Q&#8217;s to ask your girlfriend</span></a></li>
+		<li id="menu-item-438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-438"><a href="http://conversationstartersworld.com/personal-questions-to-ask-a-girl/" itemprop="url"><span itemprop="name">Personal Q&#8217;s to ask a girl</span></a></li>
+		<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="http://conversationstartersworld.com/interesting-questions-to-ask-a-girl/" itemprop="url"><span itemprop="name">Interesting Q&#8217;s to ask a girl</span></a></li>
+		<li id="menu-item-539" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-539"><a href="http://conversationstartersworld.com/fun-questions-to-ask-a-girl/" itemprop="url"><span itemprop="name">Fun Q&#8217;s to ask a girl</span></a></li>
+		<li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><a href="http://conversationstartersworld.com/deep-questions-to-ask-a-girl/" itemprop="url"><span itemprop="name">Deep Q&#8217;s to ask a girl</span></a></li>
+		<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="http://conversationstartersworld.com/random-questions-to-ask-a-girl/" itemprop="url"><span itemprop="name">Random Q&#8217;s to ask a girl</span></a></li>
+		<li id="menu-item-1028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1028"><a href="http://conversationstartersworld.com/weird-questions-to-ask-a-girl/" itemprop="url"><span itemprop="name">Weird Q&#8217;s to ask a girl</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-1245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1245"><a href="http://conversationstartersworld.com/topics-to-talk-about/" itemprop="url"><span itemprop="name">Topics to talk about</span></a></li>
+	<li id="menu-item-384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="http://conversationstartersworld.com/interesting-conversation-topics/" itemprop="url"><span itemprop="name">Interesting conversation topics</span></a></li>
+	<li id="menu-item-990" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-990"><a href="http://conversationstartersworld.com/fun-questions-to-ask/" itemprop="url"><span itemprop="name">Fun questions to ask</span></a></li>
+	<li id="menu-item-1159" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1159"><a href="http://conversationstartersworld.com/funny-questions-to-ask-a-guy-or-girl/" itemprop="url"><span itemprop="name">Funny questions to ask</span></a></li>
+	<li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090"><a href="http://conversationstartersworld.com/conversation-starters-for-couples/" itemprop="url"><span itemprop="name">Conversation starters for couples</span></a></li>
+	<li id="menu-item-1179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1179"><a href="http://conversationstartersworld.com/questions-to-ask-your-crush/" itemprop="url"><span itemprop="name">Questions to ask your crush</span></a></li>
+	<li id="menu-item-1006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1006"><a href="http://conversationstartersworld.com/questions-ask-guy-girl-over-text/" itemprop="url"><span itemprop="name">Questions to ask over text</span></a></li>
+</ul>
+</li>
+<li id="menu-item-586" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-586"><a itemprop="url"><span itemprop="name">Conversation games</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://conversationstartersworld.com/truth-dare-questions/" itemprop="url"><span itemprop="name">Truth or Dare</span></a></li>
+	<li id="menu-item-339" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-304 current_page_item menu-item-339"><a href="http://conversationstartersworld.com/never-have-i-ever-questions/" itemprop="url"><span itemprop="name">Never have I ever</span></a></li>
+	<li id="menu-item-769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-769"><a href="http://conversationstartersworld.com/21-questions-game/" itemprop="url"><span itemprop="name">21 Questions Game</span></a></li>
+	<li id="menu-item-875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-875"><a href="http://conversationstartersworld.com/this-or-that-questions/" itemprop="url"><span itemprop="name">This or That Questions</span></a></li>
+</ul>
+</li>
+</ul></div></nav></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><div class="breadcrumb" itemprop="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList"><span xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="http://conversationstartersworld.com/" rel="v:url" property="v:title">Home</a> » <span class="breadcrumb_last">Never have I ever questions</span></span></span></div><article class="post-304 page type-page status-publish has-post-thumbnail entry" itemscope itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Never have I ever questions</h1> 
+</header><div class="entry-content" itemprop="text"><div class="share-before share-filled share-small" id="share-before-304"><div class="googlePlus" id="googleplus-before-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Share"></div><div class="facebook" id="facebook-before-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Share"></div><div class="twitter" id="twitter-before-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Tweet"></div><div class="pinterest" id="pinterest-before-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Pin"></div><div class="stumbleupon" id="stumbleupon-before-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Share"></div></div>
+			<script type='text/javascript'>
+				jQuery(document).ready(function($) {
+					$('#googleplus-before-304').sharrre({
+										  share: {
+										    googlePlus: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('googlePlus');
+										  }
+										});
+$('#facebook-before-304').sharrre({
+										  share: {
+										    facebook: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('facebook');
+										  }
+										});
+$('#twitter-before-304').sharrre({
+										  share: {
+										    twitter: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('twitter');
+										  }
+										});
+$('#pinterest-before-304').sharrre({
+										  share: {
+										    pinterest: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  pinterest: { media: 'http://conversationstartersworld.com/wp-content/uploads/2015/09/Never-have-I-ever-questions.jpg', description: 'Never have I ever questions' } },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('pinterest');
+										  }
+										});
+$('#stumbleupon-before-304').sharrre({
+										  share: {
+										    stumbleupon: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('stumbleupon');
+										  }
+										});
+
+				});
+		</script><p><img class="aligncenter size-full wp-image-855" src="http://conversationstartersworld.com/wp-content/uploads/2015/09/Never-have-I-ever-questions.jpg" alt="Never have I ever questions" width="940" height="788" srcset="http://conversationstartersworld.com/wp-content/uploads/2015/09/Never-have-I-ever-questions.jpg 940w, http://conversationstartersworld.com/wp-content/uploads/2015/09/Never-have-I-ever-questions-300x251.jpg 300w, http://conversationstartersworld.com/wp-content/uploads/2015/09/Never-have-I-ever-questions-768x644.jpg 768w" sizes="(max-width: 940px) 100vw, 940px" /></p>
+<p>“Never have I ever…&#8221; is a great game for getting to know people. But it’s not just for getting to know people you&#8217;ve just met. It’s also great with friends you think you know well. You can really learn some embarrassing and interesting things about people you thought you knew well.</p>
+<p>Just make sure you pick your questions wisely, and don’t ask people you just met intensely personal questions.</p>
+<h2>Never have I ever rules</h2>
+<p>So there are two ways to play &#8220;Never have I ever&#8221;. Depending on your age and what you are comfortable with, you can pick the game that works for you and your friends. Or you could just say &#8220;Never have I ever&#8230;&#8221; and have your friends say if they have done it or not.</p>
+<h3>The points game</h3>
+<p>The first way to play &#8220;Never have I ever&#8230;&#8221; is to sit or stand in a circle. Then one person says something that they haven’t done. “Never have I ever broken something at a friend’s house and not told them.&#8221; If you have broken something at a friend’s house and not told your friend, then you lose a point. Then the next person says something they haven’t done “Never have I ever…” and so on.</p>
+<p>You have ten points to start and when you don’t have any more points you are out of the game. You can keep track of your points on your fingers or draw circles and cross them out on a piece of paper. The last person with points left wins the game.</p>
+<p>If only one person has done the thing from the question, they are usually asked to tell the story of how it happened.</p>
+<h3>The drinking game</h3>
+<p>The second way of playing is with sips of a drink instead of points.</p>
+<p>Everyone forms a circle or sits around a table and one person starts out “Never have I ever been stranded on the side of the road.” If someone has been stranded on the side of the road they take a drink. Then it goes to the next person. And they say “Never have I ever…” and round and round it goes.</p>
+<p>There isn’t really a winner but there are definitely people who end up drinking a lot more than others. Usually the game stops when people get too drunk or the questions get too embarrassing.</p>
+<p>If only one or two people take a drink, usually the group will ask for details or a story. But if no one drinks then the person who said “Never have I ever…” drinks.</p>
+<p><em>A word of warning if you are playing the drinking game. The game can get out of hand pretty quickly. So drink responsibly. Also, ask questions responsibly. There have been many a friendship that have ended over a game of “Never have I ever…”</em></p>
+<h2>Good luck and have fun!</h2>
+<p>No matter which version you are playing make sure to keep things relatively light and fun. No one has fun when the questions start getting too dark or too embarrassing.</p>
+<p>Remember the point of the game is to get to know your friends a little bit better and find out some interesting things about them. So have fun with it and don&#8217;t get too serious or make the questions too awkward to answer. You can use some of these questions as is, or use them as idea starters for your own questions.</p>
+<h1>Never have I ever&#8230;</h1>
+<p>&#8230; injured myself while trying to impress a girl or boy I was interested in.</p>
+<p>&#8230; had to run to save my life.</p>
+<p>&#8230; taken food out of a trash can and eaten it.</p>
+<p>&#8230; cried / flirted my way out of a speeding ticket.</p>
+<p>&#8230; taken part in a talent show.</p>
+<p>&#8230; made money by performing on the street.</p>
+<p>&#8230; broken something at a friend’s house and then not told them.</p>
+<p>&#8230; snooped through a friend’s bathroom or bedroom without them knowing.</p>
+<p>&#8230; ruined someone else’s vacation.</p>
+<p>&#8230; walked for more than six hours.</p>
+<p>&#8230; jumped from a roof.</p>
+<p>&#8230; shoplifted.</p>
+<p>&#8230; seen an <a href="http://www.livescience.com/32144-whats-the-difference-between-alligators-and-crocodiles.html">alligator or crocodile</a> in the wild.</p>
+<p>&#8230; set my or someone else’s hair on fire on purpose.</p>
+<p>&#8230; ridden an animal.</p>
+<p>&#8230; had a bad fall because I was walking and texting.</p>
+<p>&#8230; been arrested.</p>
+<p>&#8230; pressured someone into getting a tattoo or piercing.</p>
+<p>&#8230; gone surfing.</p>
+<p>&#8230; walked out of a movie because it was bad.</p>
+<p>&#8230; broken a bone.</p>
+<p>&#8230; tried to cut my own hair.</p>
+<p>&#8230; completely forgot my lines in a play.</p>
+<p>&#8230; shot a gun.</p>
+<p>&#8230; had a surprise party thrown for me.</p>
+<p>&#8230; cheated on a test.</p>
+<p>&#8230; dined and dashed.</p>
+<p>&#8230; gotten stitches.</p>
+<p>&#8230; fallen in love at first sight.</p>
+<p>&#8230; had a paranormal experience.</p>
+<p>&#8230; woken up and couldn’t move.</p>
+<p>&#8230; accidentally said “I love you” to someone.</p>
+<p>&#8230; hitchhiked.</p>
+<p>&#8230; been trapped in an elevator.</p>
+<p>&#8230; sung karaoke in front of people.</p>
+<p>&#8230; been on TV or the radio.</p>
+<p>&#8230; pressed send and then immediately regretted it.</p>
+<p>&#8230; been so sun burnt I couldn’t wear a shirt.</p>
+<p>&#8230; had a crush on a friend’s parent.</p>
+<p>&#8230; been awake for two days straight.</p>
+<p>&#8230; thrown up on a roller coaster.</p>
+<p>&#8230; snuck into a movie.</p>
+<p>&#8230; accidentally sent someone to the hospital.</p>
+<p>&#8230; dyed my hair a crazy color.</p>
+<p>&#8230; had a physical fight with my best friend.</p>
+<p>&#8230; fallen in love at first sight.</p>
+<p>&#8230; had someone slap me across the face.</p>
+<p>&#8230; worked with someone I hated with the burning passion of a thousand suns.</p>
+<p>&#8230; danced in an elevator.</p>
+<p>&#8230; cried in public because of a song.</p>
+<p>&#8230; texted for four hours straight.</p>
+<p>&#8230; chipped a tooth.</p>
+<p>&#8230; gone hunting.</p>
+<p>&#8230; had a tree house.</p>
+<p>&#8230; thrown something into a TV or computer screen.</p>
+<p>&#8230; been to a country in Asia.</p>
+<p>&#8230; been screamed at by a customer at my job.</p>
+<p>&#8230; spent a night in the woods with no shelter.</p>
+<p>&#8230; read a whole novel in one day.</p>
+<p>&#8230; gone vegan.</p>
+<p>&#8230; been without heat for a winter or without A/C for a summer.</p>
+<p>&#8230; worn glasses without lenses.</p>
+<p>&#8230; gone scuba diving.</p>
+<p>&#8230; lied about a family member dying as an excuse to get out of doing something.</p>
+<p>&#8230; bungee jumped.</p>
+<p>&#8230; been to a country in Africa.</p>
+<p>&#8230; been on a fad diet.</p>
+<p>&#8230; been to a fashion show.</p>
+<p>&#8230; been electrocuted.</p>
+<p>&#8230; stolen something from a restaurant.</p>
+<p>&#8230; had a bad allergic reaction.</p>
+<p>&#8230; been in an embarrassing video that was uploaded to YouTube.</p>
+<p>&#8230; thought I was going to drown.</p>
+<p>&#8230; worked at a fast food restaurant.</p>
+<p>&#8230; fainted.</p>
+<p>&#8230; looked through someone else’s phone without their permission.</p>
+<h2>Need some more entertainment?</h2>
+<ul>
+<li><a href="http://conversationstartersworld.com/21-questions-game/">21 Questions game</a> &#8211; Here is another game you can give a go, find out a little more about a group of people or just one person!</li>
+<li><a href="http://conversationstartersworld.com/this-or-that-questions/">This or that questions</a> &#8211; Another conversation game you can try. Netflix or YouTube? Call or text? Find out what your friends think with these this or that questions.</li>
+<li><a href="http://conversationstartersworld.com/questions-to-ask-a-girl/">Questions to ask a girl</a> / <a href="http://conversationstartersworld.com/questions-to-ask-a-guy/">Questions to ask a guy</a> &#8211; Tired of games? Give these conversation questions a try. Even though they are made with a girl or boy in mind you can mix and match depending on which questions you like.</li>
+</ul>
+<div class="share-after share-filled share-small" id="share-after-304"><div class="googlePlus" id="googleplus-after-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Share"></div><div class="facebook" id="facebook-after-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Share"></div><div class="twitter" id="twitter-after-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Tweet"></div><div class="pinterest" id="pinterest-after-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Pin"></div><div class="stumbleupon" id="stumbleupon-after-304" data-url="http://conversationstartersworld.com/never-have-i-ever-questions/" data-urlalt="http://conversationstartersworld.com/?p=304" data-text="Never have I ever questions" data-title="Share"></div></div>
+			<script type='text/javascript'>
+				jQuery(document).ready(function($) {
+					$('#googleplus-after-304').sharrre({
+										  share: {
+										    googlePlus: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('googlePlus');
+										  }
+										});
+$('#facebook-after-304').sharrre({
+										  share: {
+										    facebook: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('facebook');
+										  }
+										});
+$('#twitter-after-304').sharrre({
+										  share: {
+										    twitter: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('twitter');
+										  }
+										});
+$('#pinterest-after-304').sharrre({
+										  share: {
+										    pinterest: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  pinterest: { media: 'http://conversationstartersworld.com/wp-content/uploads/2015/09/Never-have-I-ever-questions.jpg', description: 'Never have I ever questions' } },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('pinterest');
+										  }
+										});
+$('#stumbleupon-after-304').sharrre({
+										  share: {
+										    stumbleupon: true
+										  },
+										  urlCurl: 'http://conversationstartersworld.com/wp-content/plugins/genesis-simple-share/lib/sharrre/sharrre.php',
+										  enableHover: false,
+										  enableTracking: true,
+										  buttons: {  },
+										  click: function(api, options){
+										    api.simulateClick();
+										    api.openPopup('stumbleupon');
+										  }
+										});
+
+				});
+		</script></div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2><section id="nav_menu-7" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">More great questions:</h3>
+<div class="menu-sidebar-container"><ul id="menu-sidebar" class="menu"><li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289"><a href="http://conversationstartersworld.com/would-you-rather-questions/" itemprop="url">Would you rather questions</a></li>
+<li id="menu-item-1286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1286"><a href="http://conversationstartersworld.com/questions-to-ask-a-guy/" itemprop="url">Questions to ask a guy</a></li>
+<li id="menu-item-1285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1285"><a href="http://conversationstartersworld.com/questions-to-ask-a-girl/" itemprop="url">Questions to ask a girl</a></li>
+<li id="menu-item-1294" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1294"><a href="http://conversationstartersworld.com/questions-to-ask-your-crush/" itemprop="url">Questions to ask your crush</a></li>
+<li id="menu-item-1284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1284"><a href="http://conversationstartersworld.com/conversation-starters-for-couples/" itemprop="url">Conversation starters for couples</a></li>
+<li id="menu-item-1295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1295"><a href="http://conversationstartersworld.com/questions-to-ask-your-boyfriend/" itemprop="url">Questions to ask your boyfriend</a></li>
+<li id="menu-item-1296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1296"><a href="http://conversationstartersworld.com/questions-to-ask-your-girlfriend/" itemprop="url">Questions to ask your girlfriend</a></li>
+<li id="menu-item-1287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1287"><a href="http://conversationstartersworld.com/questions-ask-guy-girl-over-text/" itemprop="url">Questions to ask over text</a></li>
+<li id="menu-item-1290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1290"><a href="http://conversationstartersworld.com/this-or-that-questions/" itemprop="url">This or That Questions</a></li>
+<li id="menu-item-1291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1291"><a href="http://conversationstartersworld.com/fun-questions-to-ask/" itemprop="url">Fun questions to ask</a></li>
+<li id="menu-item-1293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1293"><a href="http://conversationstartersworld.com/deep-conversation-topics/" itemprop="url">Deep Conversation Topics</a></li>
+<li id="menu-item-1292" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1292"><a href="http://conversationstartersworld.com/topics-to-talk-about/" itemprop="url">Topics to talk about</a></li>
+<li id="menu-item-1297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1297"><a href="http://conversationstartersworld.com/21-questions-game/" itemprop="url">21 Questions Game</a></li>
+</ul></div></div></section>
+</aside></div></div><div class="footer-widgets" id="genesis-footer-widgets"><h2 class="genesis-sidebar-title screen-reader-text">Footer</h2><div class="wrap"><div class="footer-widgets-1 widget-area"><section id="nav_menu-5" class="widget widget_nav_menu"><div class="widget-wrap"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-588"><a href="http://conversationstartersworld.com/" itemprop="url">Home</a></li>
+<li id="menu-item-589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-589"><a href="http://conversationstartersworld.com/about/" itemprop="url">About me</a></li>
+<li id="menu-item-590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-590"><a href="http://conversationstartersworld.com/privacy-policy/" itemprop="url">Privacy Policy</a></li>
+</ul></div></div></section>
+</div><div class="footer-widgets-2 widget-area"><section id="search-2" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://conversationstartersworld.com/" role="search"><meta itemprop="target" content="http://conversationstartersworld.com/?s={s}"/><label class="search-form-label screen-reader-text" for="searchform-580f6dfe5dc8e">Search this website</label><input itemprop="query-input" type="search" name="s" id="searchform-580f6dfe5dc8e" placeholder="Search this website &#x2026;" /><input type="submit" value="Search" /></form></div></section>
+<section id="text-5" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget">  </div>
+		</div></section>
+</div><div class="footer-widgets-3 widget-area"><section id="text-3" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"></div>
+		</div></section>
+</div></div></div><footer class="site-footer" itemscope itemtype="http://schema.org/WPFooter"><div class="wrap">	<p>Copyright 2016 &copy; <a href="http://conversationstartersworld.com/">Conversation Starters World</a> &middot; All Rights Reserved</p>
+	<nav class="nav-secondary" itemscope itemtype="http://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-footer-menu-1" class="menu genesis-nav-menu menu-secondary js-superfish"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-588"><a href="http://conversationstartersworld.com/" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-589"><a href="http://conversationstartersworld.com/about/" itemprop="url"><span itemprop="name">About me</span></a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-590"><a href="http://conversationstartersworld.com/privacy-policy/" itemprop="url"><span itemprop="name">Privacy Policy</span></a></li>
+</ul></div></nav></div></footer></div><script type='text/javascript' src='http://conversationstartersworld.com/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5'></script>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.4.2'></script>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-content/themes/digital-pro/js/fadeup.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-content/themes/digital-pro/js/site-header.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DigitalL10n = {"mainMenu":"Menu","subMenu":"Menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-content/themes/digital-pro/js/responsive-menu.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://conversationstartersworld.com/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+</body></html>
