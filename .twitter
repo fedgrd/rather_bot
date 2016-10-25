@@ -1,0 +1,12 @@
+[apikey]
+key = qTM52E4vhcTWRjZZxS0AKgg2B
+secret = 1KkhEdQt35QZrov7sVUIXmql3EWs4Oidu2U4oWLoPaeGNnodAS
+
+[token]
+token = 790600733645307905-mu1BONuxlAnRCOpXqkMnkZxDsmp16x3
+secret = OcUlK4363PjJB5IBB4NDcxL7Qikv5x4EJpDmF0kCsqaXD
+
+[app]
+rule =  @rather_bot
+account_screen_name = rather_bot
+account_user_id = 790600733645307905
